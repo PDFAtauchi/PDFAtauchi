@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paul Dany!</h1>
 <h3 align="center">A Software Engineer passionate for Clean Code and Reliability</h3>
 
-## Menu
-- [👨 Social](#-social-)
-- [📝 Blog](#--blog-)
- 
 ## 👨👩 Social
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/PDFAtauchi)](https://github.com/PDFAtauchi)
