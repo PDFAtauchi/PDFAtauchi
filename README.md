@@ -22,7 +22,7 @@
   
 <details open>
     <summary>
-      <strong> Languages & Frameworks & Other tools</strong> 
+      <strong> Languages & Frameworks & Libraries & Other tools</strong> 
     </summary>
     <br>
       <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -44,16 +44,4 @@
       <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </details>
   
-  
- 
-</details>
-
-<details open>
-  <summary>📈 <b>Github Statistics</b>:</summary> 
-  <br>       
-  <div> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PDFAtauchi&include_all_commits=true&count_private=true&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PDFAtauchi&layout=compact&langs_count=7&theme=dark"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PDFAtauchi&layout=compact&langs_count=7&theme=dark"/>  
-  </div>
 </details>
