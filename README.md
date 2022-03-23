@@ -11,7 +11,7 @@
 
 - I'm Software Engineer on the way to become a Software Craftsman;
 - I'm passionate about tecnology;
-- I'm currently working at <a href="https://www.linkedin.com/company/nelogica/mycompany/">Nelogica</a> ❤️;
+- I'm currently working at <a href="https://www.loggi.com/?utm_source=linkedin&utm_medium=traf&utm_campaign=botao">Loggi</a> ❤️;
 
 
 <details open>
