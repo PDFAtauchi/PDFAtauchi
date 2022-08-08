@@ -2,7 +2,6 @@
 
 <div>
       <a href="https://github.com/PDFAtauchi"><img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/PDFAtauchi"></a>
-      <a href="https://gitlab.com/CodeBlueDS"><img src="https://img.shields.io/badge/-GitLab-000?style=flat-square&logo=GitLab&logoColor=white&link=https://gitlab.com/CodeBlueDS"></a>
       <a href="https://www.linkedin.com/in/paul-dany-flores-atauchi/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paul-dany-flores-atauchi/"></a>
       <a href="https://medium.com/@floresatauchi"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@floresatauchi"></a>
 </div>
